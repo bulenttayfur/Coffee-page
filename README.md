@@ -1,1 +1,1 @@
-https://github.com/bulenttayfur/Coffee-page.git
+ https://bulenttayfur.github.io/Coffee-page/
